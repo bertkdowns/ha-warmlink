@@ -31,8 +31,8 @@ DHW_TARGET_CODE = "R01"
 DHW_MIN_CODE = "R36"
 DHW_MAX_CODE = "R37"
 DHW_TANK_TEMP_CODE = "T08"
-DEFAULT_MIN = 47
-DEFAULT_MAX = 60
+DEFAULT_MIN = 20
+DEFAULT_MAX = 70
 POWER_CODE = "Power"
 MODE_CODE = "Mode"
 # Operating modes that actually service the DHW tank (have a DHW component).
